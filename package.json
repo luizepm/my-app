@@ -2,7 +2,7 @@
   "name": "my-app-ui",
   "displayName": "My APP",
   "version": "0.0.1",
-  "description": "Angular & Tailwind CSS Admin Dashboard",
+  "description": "Angular & Tailwind CSS Admin Dashboard - Generic",
   "homepage": "https://github.com/luizepm",
   "repository": {
     "type": "git",
